@@ -3,7 +3,7 @@ export default {
   head: {
     title: '歐酷雲工作室',
     htmlAttrs: {
-      lang: 'en'
+      lang: 'zh-Hant'
     },
     meta: [
       { charset: 'utf-8' },
